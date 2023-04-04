@@ -1,0 +1,8 @@
+.navbar-dark {
+  background-color: #395b64;
+}
+
+.nav-link {
+	--bs-nav-link-color: #e7f6f2;
+	margin-right: 30px;
+}

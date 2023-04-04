@@ -1,0 +1,48 @@
+#chargeOfferForm {
+  color: white;
+  padding-left: 20rem;
+  padding-top: 2%;
+  display: block;
+  justify-content: center;
+  width: 80%;
+}
+
+#chargeOfferButton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#inputColumns {
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  align-items: center;
+  height: 107px;
+}
+
+#inputRow {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.react-datepicker-wrapper {
+	width: 60%;
+}
+
+#title {
+  background-color: white !important;
+}
+
+#description {
+  background-color: white !important;
+}
+
+label {
+  color: white !important;
+}
+
+.chargeOfferFormTitle{
+  color: white;
+  margin-bottom: 20px;
+}

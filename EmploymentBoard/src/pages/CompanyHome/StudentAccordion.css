@@ -1,0 +1,25 @@
+.studentAccordion {
+	min-height: 1000px;
+	color: black;
+	width: 96% !important;
+}
+
+.accordionH3 {
+	color: black;
+	align-self: center;
+}
+
+.accordion {
+	min-height: 70vh;
+}
+
+.studAccordionH1{
+	margin-top: 30vh;
+	margin-left: 13vh;
+	color: white;
+}
+
+.spinnerStudentAccordion{
+	margin-left: 21rem;
+    margin-top: 17rem;
+}

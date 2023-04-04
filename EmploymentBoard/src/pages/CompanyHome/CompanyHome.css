@@ -1,0 +1,14 @@
+#buttonsRow {
+	margin-top: 20px;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#companyHomeDiv {
+	display:flex;
+	align-items: center;
+	justify-content: center;
+	height: 75vh;
+	width: 100%;
+}

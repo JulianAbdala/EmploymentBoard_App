@@ -1,0 +1,51 @@
+{"users": [
+	{
+		"Id": 1,
+		"Email": "ezequiel@gmail.com",
+		"Password": "Password1!",
+		"FirstName": "Ezequiel",
+		"LastName": "Martino",
+		"PhoneNumber": "+543411234567",
+		"Career": "TUP",
+		"LinkCV": "altocv.com",
+		"Postulations": [],
+		"SavedJobs": []
+	},
+	{
+		"id": 2,
+		"email": "cecibet@gmail.com",
+		"password": "Password1!",
+		"firstName": "Cecilia",
+		"lastName": "Bettiol",
+		"fileNumber": "458745",
+		"phoneNumber": "+543417654321",
+		"career": "TUP",
+		"linkCV": "altocv2.com",
+		"postulations": [],
+		"saved-jobs": []
+	},
+	{
+		"Id": 3,
+		"Email": "mateo@gmail.com",
+		"Password": "Password1!",
+		"FirstName": "Mateo",
+		"LastName": "Garcia",
+		"PhoneNumber": "+543411234321",
+		"Career": "TUP",
+		"LinkCV": "altocv3.com" ,
+		"Postulations": [],
+		"SavedJobs": []
+	},
+	{
+		"Id": 4,
+		"Email": "juliabdala@gmail.com",
+		"Password": "Password1!",
+		"FirstName": "Julian",
+		"LastName": "Abdala",
+		"PhoneNumber": "+543411234567",
+		"Career": "TUP",
+		"LinkCV": "altocv4.com",
+		"Postulations": [],
+		"SavedJobs": []
+	}
+]}

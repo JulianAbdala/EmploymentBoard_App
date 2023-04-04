@@ -1,0 +1,62 @@
+#myOffersTitle {
+	color: #e7f6f2;
+	font-size: 25px;
+	margin-top: 20px;
+	margin-left: 20px;
+	text-align: center;
+}
+
+#myOffersForm {
+	height: auto;
+	background-color: #2c3333;
+	display: flex;
+	margin-top: 20px;
+	margin-left: 8rem;
+	justify-content: center;
+	width: 100%;
+}
+
+#myOfferMapperDiv {
+	overflow: scroll;
+	max-height: 65vh;
+	overflow-x: hidden;
+	-ms-overflow-style: none; /* for Internet Explorer, Edge */
+    scrollbar-width: none; /* for Firefox */
+}
+
+#myOfferMapperDiv::-webkit-scrollbar {
+	display: none; /* for Chrome, Safari, and Opera */
+  }
+
+#searchMyFormControl{
+	background-color: white !important;
+}
+
+.offerContainer	{
+	height: 40rem;
+	width: 100%;
+	border-radius: 8px;
+}
+
+.offerShowerDiv {
+		background-color: #e7f6f2;
+		height: 100%;
+		overflow-y: scroll;
+		overflow-x: hidden;
+		-ms-overflow-style: none; /* for Internet Explorer, Edge */
+		scrollbar-width: none; /* for Firefox */
+		color: black;
+}
+
+.offerShowerDiv::-webkit-scrollbar {
+	display: none; /* for Chrome, Safari, and Opera */
+  }
+
+.myOffersModalTitle {
+	align-self: center;
+	margin-top: 15px !important;
+}
+
+.modal {
+	--bs-modal-bg: #e7f6f2 !important;
+}

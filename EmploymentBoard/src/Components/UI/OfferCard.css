@@ -1,0 +1,20 @@
+#card {
+  background-color: #e7f6f2;
+  height: 7rem;
+  margin: 0.5rem;
+  padding: 5px;
+  text-align: justify;	
+}
+
+#card-selected {
+  background-color: #e7f6f2;
+  box-shadow: rgba(16, 210, 220, 0.8) 0px 0px 2px 4px;
+  height: 7rem;
+  margin: 0.5rem;
+  padding: 5px;
+  text-align: justify;
+}
+.card-text {
+	margin:0px;
+}
+

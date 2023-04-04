@@ -1,0 +1,40 @@
+#showOffersTitle {
+	color: #e7f6f2;
+	font-size: 25px;
+	margin-top: 20px;
+	margin-bottom: 30px;	
+	margin-left: 20px;
+	text-align: center;
+}
+
+#showOffersForm {
+	height: auto;
+	background-color: #2c3333;
+	display: flex;
+	margin-top: 20px;
+	margin-left: 8rem;
+	justify-content: center;
+	width: 100%;
+}
+
+#offerMapperDiv {
+	overflow: scroll;
+	max-height: 70vh;
+	overflow-x: hidden;
+	-ms-overflow-style: none; /* for Internet Explorer, Edge */
+    scrollbar-width: none; /* for Firefox */
+}
+
+#offerMapperDiv::-webkit-scrollbar {
+	display: none; /* for Chrome, Safari, and Opera */
+  }
+
+#searchFormControl{
+	background-color: white !important;
+}
+
+.offerContainer	{
+	height: 40rem;
+	width: 100%;
+	border-radius: 8px;
+}

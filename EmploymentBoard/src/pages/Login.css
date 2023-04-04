@@ -1,0 +1,14 @@
+#login-page {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: #e7f6f2;
+  flex-wrap: wrap;
+  height: 84vh;
+}
+
+#presentation-text {
+  display: block;
+  width: 270px;
+  font-size: 22px;
+}

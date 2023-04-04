@@ -1,0 +1,38 @@
+#btn {
+  height: 45px;
+  width: 350px;
+  font-weight: 300;
+  letter-spacing: -0.011em;
+  color: whitesmoke;
+  background-color: #395b64;
+  font-size: 15px;
+  border-radius: 8px;
+  border: none;
+  margin-top: 10px;
+}
+#btn:hover {
+  cursor: pointer;
+  background-color: #416670;
+  box-shadow: 0 0 8px rgba(71, 113, 125, 0.4);
+  transition: all 50ms ease-in-out;
+}
+
+#smallBtn {
+  height: 45px;
+  width: 200px;
+  font-weight: 300;
+  letter-spacing: -0.011em;
+  color: whitesmoke;
+  background-color: #395b64;
+  font-size: 15px;
+  border-radius: 8px;
+  border: none;
+  margin-top: 10px;
+}
+
+#smallBtn:hover {
+  cursor: pointer;
+  background-color: #416670;
+  box-shadow: 0 0 8px rgba(71, 113, 125, 0.4);
+  transition: all 50ms ease-in-out;
+}

@@ -1,0 +1,78 @@
+#login-form {
+  display: flex;
+  flex-direction: column;
+}
+
+h3 {
+  color: #e7f6f2;
+  font-weight: 500;
+}
+
+.txt-input {
+  height: 42px;
+  width: 350px;
+  background-color: #e7f6f2;
+  color: #1e1e1e;
+  font-size: 17px;
+  letter-spacing: -0.011em;
+  border-radius: 8px;
+  font-weight: 300;
+  border: none;
+  margin-bottom: 3px;
+}
+
+.label-input {
+  font-family: Inter;
+  font-size: 14px;
+  letter-spacing: -0.011em;
+  font-weight: 300;
+  color: #e7f6f2;
+}
+
+.lab-pass-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  height: 22px;
+  width: 350px;
+}
+
+.pass-forgot {
+  font-size: 14px;
+  color: #9fa8a5;
+  text-decoration: none;
+}
+
+.pass-forgot:hover {
+  text-decoration: underline;
+  color: #e7f6f2;
+  transition: all 50ms ease-in-out;
+}
+
+.invalid {
+  border: solid rgb(190, 50, 50) 2px;
+}
+
+#err-cont {
+  height: 15px;
+  margin-bottom: 8px;
+  margin-top: 5px;
+}
+
+#error {
+  color: rgb(230, 109, 109);
+  font-size: 13px;
+  width: 350px;
+  height: 20px;
+}
+
+.link {
+  color: #e7f6f2;
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+  color: #e7f6f2;
+  transition: all 50ms ease-in-out;
+}

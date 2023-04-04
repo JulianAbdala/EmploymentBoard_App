@@ -1,0 +1,28 @@
+.mapper-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.accordion{
+    align-self: center;
+    margin-top: 20px;
+    width: 50%;
+    margin-bottom: 5px;
+    padding: 20px;
+    background-color: #2c3333;
+    color: whitesmoke;
+    border-radius: 10px;
+    border: 1px solid #2c3333;
+    box-shadow: 0 0 10px 0 #2c3333;
+    overflow: scroll;
+    overflow-x: hidden;
+    max-height: 400px;
+}
+
+.mapper-h1{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: whitesmoke;
+}

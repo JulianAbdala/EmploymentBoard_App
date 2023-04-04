@@ -1,0 +1,84 @@
+.register-form {
+  display: flex;
+  flex-direction: row;
+}
+
+h3 {
+  color: #e7f6f2;
+  font-weight: 500;
+  text-align: center;
+}
+
+h4 {
+  color: #e7f6f2;
+  font-weight: 500;
+  text-align: center;
+}
+
+.child1 {
+  width: 350px;
+  /*background-color: #e7f6f2;*/
+
+  color: #1e1e1e;
+  font-size: 13px;
+  letter-spacing: -0.011em;
+  border-radius: 8px;
+  font-weight: 300;
+  border: none;
+  margin: 20px;
+}
+.child2 {
+  width: 350px;
+  /*background-color: #e7f6f2;*/
+
+  color: #1e1e1e;
+  font-size: 13px;
+  letter-spacing: -0.011em;
+  border-radius: 8px;
+  font-weight: 300;
+  border: none;
+  margin: 20px;
+}
+
+.legend {
+  flex-wrap: inherit;
+  margin-bottom: 1px;
+  padding: 3px;
+  font-family: Inter;
+  font-size: 14px;
+  letter-spacing: -0.011em;
+  font-weight: 300;
+  color: #e7f6f2;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #e7f6f2;
+  flex-wrap: wrap;
+}
+
+/* Saca el SPIN. Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+/* Firefox */
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+/* .txt-input {
+  margin-bottom: 15px;
+} */
+
+#errorReg {
+  color: rgb(230, 109, 109);
+  font-size: 13px;
+  width: 350px;
+  height: 20px;
+}

@@ -1,0 +1,35 @@
+.login-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+h3 {
+  color: #e7f6f2;
+  font-weight: 500;
+}
+
+input {
+  height: 45px;
+  width: 300px;
+  background-color: #e7f6f2;
+  color: #1e1e1e;
+  font-size: 17px;
+  letter-spacing: -0.011em;
+  border-radius: 8px;
+  font-weight: 300;
+  border: none;
+}
+
+#label-input {
+  font-family: Inter;
+  font-size: 14px;
+  letter-spacing: -0.011em;
+  font-weight: 300;
+  color: #e7f6f2;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.invalid {
+  border: solid rgb(190, 50, 50) 2px;
+}

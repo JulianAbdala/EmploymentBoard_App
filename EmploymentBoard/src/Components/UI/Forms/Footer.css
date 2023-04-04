@@ -1,0 +1,39 @@
+.footer-wrapper {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.divisor {
+  display: flex;
+  align-self: center;
+  color: rgb(111, 188, 198);
+  width: 75%;
+  border-width: 4px;
+  margin: auto;
+  padding-bottom: 2px;
+}
+
+.Footer {
+  background-color: #2c3333;
+  color: azure;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 2px;
+}
+
+.wrapper {
+  display: flex;
+  align-content: center;
+  margin: 8px;
+}
+
+.imageWrapper {
+  width: 7%;
+  display: flex;
+  align-self: left;
+  padding-right: 30px;
+}

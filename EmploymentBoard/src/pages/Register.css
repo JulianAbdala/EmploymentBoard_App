@@ -1,0 +1,25 @@
+#register-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #e7f6f2;
+  flex-wrap: wrap;
+  min-height: 75vh;
+}
+.btn-outline-primary {
+  --bs-btn-color: #e7f6f2 !important;
+  --bs-btn-border-color: #395b64 !important;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #51818e !important;
+    --bs-btn-hover-border-color: #51828f !important;
+    --bs-btn-focus-shadow-rgb: 13,110,253;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #395b64 !important;
+    --bs-btn-active-border-color: #598d9c !important;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #395b64 !important;
+    --bs-btn-disabled-bg: transparent;
+    --bs-btn-disabled-border-color: #395b64 !important;
+    --bs-gradient: none;
+}

@@ -1,0 +1,16 @@
+.modal-header {
+  background-color: #2c3333 !important;
+  border-bottom: none !important;
+  color: white;
+}
+
+.modal-postulation {
+  background-color: #2c3333;
+}
+
+.modal-footer {
+  background-color: #2c3333 !important;
+  border-top: none !important;
+}
+
+
